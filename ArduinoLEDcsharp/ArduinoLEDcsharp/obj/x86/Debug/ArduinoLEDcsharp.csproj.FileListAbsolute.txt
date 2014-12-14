@@ -1,0 +1,15 @@
+F:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.Form1.resources
+F:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.Properties.Resources.resources
+F:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.csproj.GenerateResource.Cache
+F:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\bin\Debug\ArduinoLEDcsharp.exe
+F:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\bin\Debug\ArduinoLEDcsharp.pdb
+F:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.exe
+F:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.pdb
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.exe
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.pdb
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\bin\Debug\ArduinoLEDcsharp.exe.config
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\bin\Debug\ArduinoLEDcsharp.exe
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\bin\Debug\ArduinoLEDcsharp.pdb
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.Form1.resources
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.Properties.Resources.resources
+G:\vbnet\ArduinoLEDcsharp\ArduinoLEDcsharp\obj\x86\Debug\ArduinoLEDcsharp.csproj.GenerateResource.Cache
